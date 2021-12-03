@@ -98,40 +98,40 @@ Web Preview
 
 ### \[home]
 
-![home](https://github.com/perdgkim/CObfuscatorWAS/blob/main/static/demo/imgs/home.png)
+![home](https://github.com/perdgkim/CObfuscatorWAS/blob/master/static/demo/imgs/home.png)
 
 <br/><br/>
 
 ### \[intro]
 
-![intro](https://github.com/perdgkim/CObfuscatorWAS/blob/main/static/demo/imgs/intro.png)
+![intro](https://github.com/perdgkim/CObfuscatorWAS/blob/master/static/demo/imgs/intro.png)
 
 <br/><br/>
 
 ### \[work]
 
-![work](https://github.com/perdgkim/CObfuscatorWAS/blob/main/static/demo/imgs/work.png)
+![work](https://github.com/perdgkim/CObfuscatorWAS/blob/master/static/demo/imgs/work.png)
 
 <br/>
 
-![workinput](https://github.com/perdgkim/CObfuscatorWAS/blob/main/static/demo/imgs/workinput.png)
+![workinput](https://github.com/perdgkim/CObfuscatorWAS/blob/master/static/demo/imgs/workinput.png)
 
 <br/>
 
-![workoutput](https://github.com/perdgkim/CObfuscatorWAS/blob/main/static/demo/imgs/workoutput.png)
+![workoutput](https://github.com/perdgkim/CObfuscatorWAS/blob/master/static/demo/imgs/workoutput.png)
 
 <br/><br/>
 
 ### \[about]
 
-![about](https://github.com/perdgkim/CObfuscatorWAS/blob/main/static/demo/imgs/about.png)
+![about](https://github.com/perdgkim/CObfuscatorWAS/blob/master/static/demo/imgs/about.png)
 
 
 <br/><br/>
 
 ### \[contact]
 
-![contact](https://github.com/perdgkim/CObfuscatorWAS/blob/main/static/demo/imgs/contact.png)
+![contact](https://github.com/perdgkim/CObfuscatorWAS/blob/master/static/demo/imgs/contact.png)
 
 <br/><br/>
 
@@ -145,7 +145,7 @@ work 페이지에서 소스코드 작성 혹은 붙여넣은 뒤, submit 버튼�
 
 \[예시]
 
-![preview](https://github.com/perdgkim/CObfuscatorWAS/blob/main/static/demo/imgs/preview.gif)
+![preview](https://github.com/perdgkim/CObfuscatorWAS/blob/master/static/demo/imgs/preview.gif)
 
 
 <br/><br/>
@@ -157,7 +157,7 @@ Diagram
 
 이 프로젝트는 다음과 같은 구조를 갖습니다.
 
-![diagram](https://github.com/perdgkim/CObfuscatorWAS/blob/main/static/demo/imgs/diagram.jpg)
+![diagram](https://github.com/perdgkim/CObfuscatorWAS/blob/master/static/demo/imgs/diagram.jpg)
 
 좀 더 자세하게 보려면 [여기](https://sketchboard.me/XC0oJuCgMdoF#/)를 클릭해주세요.
 
